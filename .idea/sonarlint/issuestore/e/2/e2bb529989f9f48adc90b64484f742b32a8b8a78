@@ -1,0 +1,11 @@
+
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÙ¸Äøÿÿÿÿ8ÖàëÁ¨-
+xsquid:S1450"WRemove the "textLine" field and declare it as a local variable in the relevant methods.(ùú¾Œþÿÿÿÿ8Œú…ñ¨-
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÏÇ€‚
+‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ã¯““üÿÿÿÿ8¢žßÂ¨-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ä–Ò×8ÖàëÁ¨-
+asquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(À’Œ®
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(÷µá­ÿÿÿÿÿ8Œú…ñ¨-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÁáÖþýÿÿÿÿ8ÇÝžÂ¨-

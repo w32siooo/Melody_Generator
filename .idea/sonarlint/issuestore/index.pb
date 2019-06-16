@@ -1,0 +1,32 @@
+
+O
+src/com/company/fileReader.java,e\2\e2bb529989f9f48adc90b64484f742b32a8b8a78
+S
+#src/com/company/MainController.java,2\a\2a0efd657719b105044a96724393875e2dce4af2
+I
+src/com/company/Main.fxml,0\d\0df167dd87a84c9ff6137a90db89970c3c823e67
+I
+src/com/company/Main.java,4\a\4a831b10439099d44774d0ccc387e808deffaeab
+Y
+)TestCases/com/company/fileReaderTest.java,e\9\e9b27d883ef2b21ba6c9d3e60540f21cf674335f
+O
+src/com/company/FileReader.java,3\7\371eb69986253afe99c7e815365639ffb3314e94
+K
+src/com/company/Rhythm.java,4\3\432f111499db0afa4e8096596906dcd0f26d1750
+I
+src/com/company/note.java,7\0\705cd69e692363e780e9ae8e92c3bdc115756a3e
+S
+#src/com/company/SampleRecorder.java,7\0\70c0e8a4ab1b8300f168b0f8454127b872bcea82
+I
+src/com/company/Note.java,0\5\05ff01c39a1accc53e8dbbee6a481202df60d24a
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+>
+.gitattributes,2\4\24139dae656713ba861751fb2c2ac38839349a7a
+U
+%src/com/company/FrequencyHashMap.java,3\e\3eea53b6cf43bd40a8b3a63caf36422157f493f0
+O
+src/com/company/SoundClass.java,7\b\7bc3d5ff2d0507be4ec108d0157bae432a9b5fd8
+O
+src/com/company/MinorScale.java,a\8\a85a9523e95771bdbe1f609d88f70bea2dc18d45

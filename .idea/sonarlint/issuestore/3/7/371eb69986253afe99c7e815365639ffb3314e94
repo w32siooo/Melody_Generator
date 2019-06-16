@@ -1,0 +1,11 @@
+
+zsquid:S1450"WRemove the "textLine" field and declare it as a local variable in the relevant methods.(ùú¾Œşÿÿÿÿ8äá¨Â©-
+“squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(é†ª¢ÿÿÿÿÿ8äá¨Â©-
+W
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(ä–Ò×8ô—…Ïª-
+psquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ğ«A8„ıƒÏª-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 94 to the 15 allowed.(»±øÓûÿÿÿÿ8ğŸÛÄ¯-
+ƒsquid:S4165"eRemove this useless assignment; "octaves" already holds the assigned value along all execution paths.(ß”÷¨8ğŸÛÄ¯-
+\
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(“Îøüÿÿÿÿ8ğŸÛÄ¯-
+jsquid:S2095'"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(À’Œ®8»éğÎª-

@@ -1,0 +1,9 @@
+
+U
+squid:S106("9Replace this use of System.out or System.err by a logger.(Šú‘	8¶Ñµ¿¯-
+<squid:S2119i"Save and re-use this "Random".(¡Å”¦8Â±ÅÛ¬-
+Isquid:S1068"+Remove this unused "measure" private field.(Ô‘ãï8¶Ñµ¿¯-
+Rsquid:S1068"/Remove this unused "quarterNote" private field.(óµâÒúÿÿÿÿ8¶Ñµ¿¯-
+Msquid:S1068"*Remove this unused "random" private field.(¡•îåþÿÿÿÿ8¶Ñµ¿¯-
+“squid:S1319V"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(û€¿ýÿÿÿÿ8ñ‡à×­-
+Ksquid:S1068"-Remove this unused "eightNote" private field.(ÅÙ®µ8¶Ñµ¿¯-

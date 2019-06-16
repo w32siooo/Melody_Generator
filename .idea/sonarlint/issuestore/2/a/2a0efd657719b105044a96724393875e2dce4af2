@@ -1,0 +1,28 @@
+
+fsquid:S2095˜"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(£¢ü8şÕµ¿¯-
+vsquid:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(êÀ¨œÿÿÿÿÿ8şÕµ¿¯-
+Rsquid:S1481­".Remove this unused "snapshot2" local variable.(«‚Šøÿÿÿÿ8şÕµ¿¯-
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8şÕµ¿¯-
+W
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(Ñ÷Ú8şÕµ¿¯-
+jsquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(ÊßŠÛ8şÕµ¿¯-
+`
+squid:S899Á"=Do something with the "boolean" value returned by "renameTo".(‹±ÉÃşÿÿÿÿ8şÕµ¿¯-
+Ysquid:S1141´"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8şÕµ¿¯-
+Gsquid:S1148È"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8şÕµ¿¯-
+W
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(‹ÄÖ8şÕµ¿¯-
+vsquid:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(‰•îéşÿÿÿÿ8şÕµ¿¯-
+zsquid:S1450€"VRemove the "isMuted" field and declare it as a local variable in the relevant methods.(»Öê²üÿÿÿÿ8şÕµ¿¯-
+jsquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(²î··8şÕµ¿¯-
+W
+squid:S106À"9Replace this use of System.out or System.err by a logger.(¥äÖÓ8şÕµ¿¯-
+Vsquid:S2589½"7Remove this expression which always evaluates to "true"(·ÛñÁ8şÕµ¿¯-
+jsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(²î··8şÕµ¿¯-
+\
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(Ó¾¥Úûÿÿÿÿ8şÕµ¿¯-
+osquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(ñôŠªûÿÿÿÿ8şÕµ¿¯-
+asquid:S2184÷"BCast one of the operands of this addition operation to a "double".(¾°ªÀ8Î÷‡é¯-
+Ysquid:S1141¾"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8şÕµ¿¯-
+jsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(–Ú“¬8şÕµ¿¯-
+asquid:S1854­"=Remove this useless assignment to local variable "snapshot2".(«‚Šøÿÿÿÿ8şÕµ¿¯-
